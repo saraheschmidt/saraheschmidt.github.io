@@ -5,7 +5,7 @@
 
 <tr>
 <td>
-<a href="http://rpubs.com/sarahschmidt/268691"><img src="https://github.com/saraheschmidt/saraheschmidt.github.io/blob/master/Map.png?raw=true" width="600" height="415" />
+<a href="http://rpubs.com/sarahschmidt/268691"><img src="https://github.com/saraheschmidt/saraheschmidt.github.io/blob/master/Map.png?raw=true" width="540" height="373.5" />
 
 <caption align="bottom" text-align="left">Interactive map created with the leaflet R package. <br> <a href="http://rpubs.com/sarahschmidt/268723"> R Markdown Report </a> </caption>
 </td>
@@ -22,7 +22,7 @@
 <tr>
 
 <td>
-<iframe width="600" height="450" src="https://app.powerbi.com/view?r=eyJrIjoiZDM0ZjQ2NjQtNmRlNy00NDJiLWJlZDItMjJkMjBlNjQ0NDdmIiwidCI6ImIxNTJkZTI1LTYxZDMtNDlhMi1hMmY4LTczMWQ2ZTgxNDAyOSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="540" height="405" src="https://app.powerbi.com/view?r=eyJrIjoiZDM0ZjQ2NjQtNmRlNy00NDJiLWJlZDItMjJkMjBlNjQ0NDdmIiwidCI6ImIxNTJkZTI1LTYxZDMtNDlhMi1hMmY4LTczMWQ2ZTgxNDAyOSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
 </td>
 
 </tr>
