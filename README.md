@@ -19,5 +19,5 @@
 <iframe width="540" height="405" src="https://app.powerbi.com/view?r=eyJrIjoiZDM0ZjQ2NjQtNmRlNy00NDJiLWJlZDItMjJkMjBlNjQ0NDdmIiwidCI6ImIxNTJkZTI1LTYxZDMtNDlhMi1hMmY4LTczMWQ2ZTgxNDAyOSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
 
 
-<caption align="bottom">Data visualizations created with Power BI. Data obtained through Twitter Streaming API, Twitter Analytics, and Facebook Insights. <br> Github Repository</caption>
+<caption align="bottom">Data visualizations created with Power BI. Data obtained through Twitter Streaming API, Twitter Analytics, and Facebook Insights. <br> <a href="https://github.com/saraheschmidt/Social-Media"> Github Repository </a></caption>
 
