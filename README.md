@@ -25,7 +25,7 @@ Data sources: ACS 2014 5-year Estimates, Detroit Open Data Portal
 <iframe width="540" height="405" src="https://app.powerbi.com/view?r=eyJrIjoiZDM0ZjQ2NjQtNmRlNy00NDJiLWJlZDItMjJkMjBlNjQ0NDdmIiwidCI6ImIxNTJkZTI1LTYxZDMtNDlhMi1hMmY4LTczMWQ2ZTgxNDAyOSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
 
 
-<caption align="bottom">Social media dashboard examples.
+<caption align="bottom">Social media dashboard samples.
 <br> 
 Tools used: R, AWS EC2, Microsoft SQL Server, Power BI
 <br>
