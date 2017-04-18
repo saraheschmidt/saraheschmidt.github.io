@@ -1,5 +1,7 @@
-Detroit Poverty and Crime Map <br>
+
 <table width="75%" border="0">
+
+<th> Detroit Poverty and Crime Map </th>
 
 <tr>
 
@@ -16,10 +18,10 @@ Interactive map created with the leaflet R package. <br> <a href="http://rpubs.c
 </table>
 
 <br>
-Social Media Data Visualizations
-<br>
 
 <table width="75%" border="0">
+
+<th> Social Media Data Visualizations </th>
 
 <tr>
 
