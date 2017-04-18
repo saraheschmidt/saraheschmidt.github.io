@@ -7,7 +7,7 @@
 <td>
 <a href="http://rpubs.com/sarahschmidt/268691"><img src="https://github.com/saraheschmidt/saraheschmidt.github.io/blob/master/Map.png?raw=true" width="600" height="415" />
 
-<caption align="bottom">Interactive map created with the leaflet R package. <br> <a href="http://rpubs.com/sarahschmidt/268723"> R Markdown Report </a> </caption>
+<caption align="bottom" text-align="left">Interactive map created with the leaflet R package. <br> <a href="http://rpubs.com/sarahschmidt/268723"> R Markdown Report </a> </caption>
 </td>
 </tr>
 
