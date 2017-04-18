@@ -8,7 +8,7 @@ Detroit Poverty and Crime Map
 </td>
 
 <td>
-Map created with the leaflet R package. <br> <a href="http://rpubs.com/sarahschmidt/268723"> R Markdown Report </a> <br>
+Interactive map created with the leaflet R package. <br> <a href="http://rpubs.com/sarahschmidt/268723"> R Markdown Report </a> <br>
 </td>
 
 </tr>
