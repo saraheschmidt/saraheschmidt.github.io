@@ -1,5 +1,4 @@
-Projects
-
+Detroit Poverty and Crime Map
 <table width="600px" height="100%" border="0">
 
 <tr>
@@ -9,7 +8,7 @@ Projects
 </td>
 
 <td>
-Text here
+Map created with the leaflet R package. <br> <a href="http://rpubs.com/sarahschmidt/268723"> R Markdown Report </a> <br>
 </td>
 
 </tr>
@@ -25,7 +24,7 @@ Text here
 </td>
 
 <td>
-Text here
+Data visualizations created with Power BI. Data obtained through Twitter Streaming API, Twitter Analytics, and Facebook Insights.
 </td>
 
 </tr>
