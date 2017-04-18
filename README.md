@@ -9,6 +9,10 @@
 
 <caption>Interactive map created with the leaflet R package. <br> <a href="http://rpubs.com/sarahschmidt/268723"> R Markdown Report </a> </caption>
 
+</tr>
+
+</table>
+
 <br>
 
 <table width="75%" border="0">
