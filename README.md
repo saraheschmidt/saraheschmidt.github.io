@@ -16,7 +16,7 @@ Interactive map created with the leaflet R package. <br> <a href="http://rpubs.c
 </table>
 
 Social Media Data Visualizations
-<table width="600px" height="100%" border="1">
+<table width="600px" height="100%" border="0">
 
 <tr>
 
