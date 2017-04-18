@@ -14,9 +14,11 @@ Interactive map created with the leaflet R package. <br> <a href="http://rpubs.c
 </tr>
 
 </table>
+
 <br>
 Social Media Data Visualizations
 <br>
+
 <table width="75%" border="0">
 
 <tr>
