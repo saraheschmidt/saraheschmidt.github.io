@@ -7,7 +7,7 @@
 <td>
 <a href="http://rpubs.com/sarahschmidt/268691"><img src="https://github.com/saraheschmidt/saraheschmidt.github.io/blob/master/Map.png?raw=true" width="540" height="373.5" />
 
-<caption align="bottom">Interactive map created with the leaflet R package. <br> <a href="http://rpubs.com/sarahschmidt/268723"> R Markdown Report </a> | <a href="https://github.com/saraheschmidt/Detroit-Crime-and-Poverty-MapGithub"> Github Repository </a></caption>
+<caption align="bottom">Interactive map created with the leaflet R package. <br> <a href="http://rpubs.com/sarahschmidt/268723"> R Markdown Report </a> | <a href="https://github.com/saraheschmidt/Detroit-Crime-and-Poverty-Map"> Github Repository </a></caption>
 
 <table width="75%" border="0">
 
