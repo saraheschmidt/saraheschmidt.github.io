@@ -15,6 +15,7 @@ Map created with the leaflet R package. <br> <a href="http://rpubs.com/sarahschm
 
 </table>
 
+Social Media Data Visualizations
 <table width="600px" height="100%" border="1">
 
 <tr>
