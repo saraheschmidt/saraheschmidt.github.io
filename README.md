@@ -43,7 +43,7 @@ Data sources: Twitter Streaming API, Twitter Analytics, Facebook Insights
 
 <img src="https://github.com/saraheschmidt/Detroit-Crime-and-Poverty-Map/blob/master/Figures/Geo_Area_Plot.png?raw=true" width="540" height="373.5" />
 
-<caption align="bottom">Map of a geographic service area to be served by a program (indicated by red diamond).
+<caption align="bottom">Map of a geographic service area to be served by a program (red diamond).
 <br> 
 Tools used: RStudio - tigris, rgdal, ggplot2, ggmap, grid
 <br>
