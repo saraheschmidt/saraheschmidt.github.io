@@ -9,7 +9,7 @@
 
 <caption align="bottom">Interactive map of Southeastern Michigan depicting poverty and crime rates by census tract. 
 <br>
-Tools used: RStudio
+Tools used: RStudio - tigris, rgdal, leaflet stringr
 <br> 
 Data sources: ACS 2014 5-year Estimates, Detroit Open Data Portal
 <br> 
@@ -45,7 +45,7 @@ Data sources: Twitter Streaming API, Twitter Analytics, Facebook Insights
 
 <caption align="bottom">Map of a geographic service area to be served by a program (indicated by red diamond).
 <br> 
-Tools used: RStudio
+Tools used: RStudio - tigris, rgdal, ggplot2, ggmap, grid
 <br>
 Data sources: US Census Bureau
 <br>
