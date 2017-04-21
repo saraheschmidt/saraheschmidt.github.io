@@ -33,3 +33,21 @@ Data sources: Twitter Streaming API, Twitter Analytics, Facebook Insights
 <br>
 <a href="https://github.com/saraheschmidt/Social-Media"> Github Repository </a></caption>
 
+<table width="75%" border="0">
+
+<th>Detroit Service Area Map</th>
+
+<tr>
+
+<td>
+
+<img src="https://github.com/saraheschmidt/Detroit-Crime-and-Poverty-Map/blob/master/Figures/Geo_Area_Plot.png?raw=true" width="540" height="373.5" />
+
+<caption align="bottom">Map of a geographic service area to be served by a program (indicated by red diamond).
+<br> 
+Tools used: RStudio
+<br>
+Data sources: US Census Bureau
+<br>
+<a href=""> Github Repository </a></caption>
+
