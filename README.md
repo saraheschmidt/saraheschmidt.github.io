@@ -1,7 +1,7 @@
 
 <table width="75%" border="0">
 
-<th> Detroit Poverty and Crime Map </th>
+<th> Detroit Poverty and Crime Explorer </th>
 
 <tr>
 <td>
