@@ -49,5 +49,5 @@ Tools used: RStudio
 <br>
 Data sources: US Census Bureau
 <br>
-<a href=""> Github Repository </a></caption>
+<a href="https://github.com/saraheschmidt/Detroit-Crime-and-Poverty-Map"> Github Repository </a></caption>
 
