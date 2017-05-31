@@ -8,7 +8,7 @@
 
 <img src="https://github.com/saraheschmidt/AHCA_Social/blob/master/AHCA_Images.png?raw=true" width="540" height="373.5" />
 
-<caption align="bottom">Exploratory Text Mining and Topic Analysis of #AHCA on Twitter 
+<caption align="bottom">Exploratory Text Mining, Topic Analysis, and Sentiment Analysis of #AHCA on Twitter 
 <br>
 Tools used: RStudio - streamR, twitteR, plyr, stringr, ggplot2, tm, stm, syuzhet
 <br> 
