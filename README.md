@@ -48,8 +48,6 @@ Data sources: ACS 2014 5-year Estimates, Detroit Open Data Portal
 Tools used: R, AWS EC2, Microsoft SQL Server, Power BI
 <br>
 Data sources: Twitter Streaming API, Twitter Analytics, Facebook Insights
-<br>
-<a href="https://github.com/saraheschmidt/Social-Media"> Github Repository </a></caption>
 
 <table width="75%" border="0">
 
