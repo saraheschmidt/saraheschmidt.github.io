@@ -6,7 +6,7 @@
 <tr>
 <td>
 
-<img src="https://github.com/saraheschmidt/AHCA_Social/blob/master/Hashtag_Correlations.png?raw=true" width="540" height="373.5" />
+<img src="https://github.com/saraheschmidt/AHCA_Social/blob/master/AHCA_Images.png?raw=true" width="540" height="373.5" />
 
 <caption align="bottom">Exploratory Text Mining and Topic Analysis of #AHCA on Twitter 
 <br>
