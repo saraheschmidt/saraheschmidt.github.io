@@ -22,7 +22,7 @@ Data sources: ACS 2014 5-year Estimates, Detroit Open Data Portal
 <tr>
 <td>
 
-<img src="https://github.com/saraheschmidt/AHCA_Social/blob/master/AHCA_Images.png?raw=true" width="540" height="373.5" />
+<img src="https://github.com/saraheschmidt/saraheschmidt.github.io/blob/master/AHCA_Images.png?raw=true" width="540" height="373.5" />
 
 <caption align="bottom">Exploratory text mining, topic analysis, and sentiment analysis of #AHCA on Twitter.
 <br>
